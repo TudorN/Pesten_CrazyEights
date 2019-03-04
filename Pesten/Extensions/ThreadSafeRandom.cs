@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 
 namespace ShufleList
 {
+    // External source used. Credits belong to: https://stackoverflow.com/questions/273313/randomize-a-listt
 
     public static class ThreadSafeRandom
     {

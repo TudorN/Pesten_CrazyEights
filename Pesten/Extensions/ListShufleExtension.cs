@@ -6,6 +6,8 @@ using System.Threading.Tasks;
 
 namespace ShufleList
 {
+
+    // External source used. Credits belong to: https://stackoverflow.com/questions/273313/randomize-a-listt
     static class ListShufleExtension
     {
         public static void Shuffle<T>(this IList<T> list)
